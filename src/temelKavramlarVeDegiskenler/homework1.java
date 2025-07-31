@@ -24,6 +24,6 @@ public class homework1 {
         kg = sc.nextInt();
         bmi = (double) kg / (boy*boy);
         System.out.println("Vücut kitle indeksiniz : " + bmi);
-        
+
     }
 }
